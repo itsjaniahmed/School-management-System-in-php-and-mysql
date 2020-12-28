@@ -1,0 +1,3 @@
+First of all i have to create a registeration form to register students to school.
+
+And all their data is shown on admin page where admin can check all applicant and 
